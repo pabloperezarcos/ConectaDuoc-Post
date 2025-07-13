@@ -13,8 +13,8 @@ public class WebConfig {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**")
-                        // .allowedOrigins("https://conecta-duoc.carnesag.cl/")
-                        .allowedOrigins("http://localhost:4200/")
+                        .allowedOrigins("https://conecta-duoc.carnesag.cl/")
+                        //.allowedOrigins("http://localhost:4200/")
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                         .allowedHeaders("*");
             }
