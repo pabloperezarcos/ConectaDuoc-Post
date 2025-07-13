@@ -1,0 +1,14 @@
+com\conectaduoc\service\AppPostServiceTest.class
+com\conectaduoc\service\PostScoreServiceTest.class
+com\conectaduoc\controller\AppPostControllerTest.class
+com\conectaduoc\service\PostCategoryServiceTest.class
+com\conectaduoc\service\PostReportServiceTest.class
+com\conectaduoc\service\PostCommentServiceTest.class
+com\conectaduoc\model\PostCategoryTest.class
+com\conectaduoc\controller\PostCommentControllerTest.class
+com\conectaduoc\controller\ScoreControllerTest.class
+com\conectaduoc\model\PostCommentTest.class
+com\conectaduoc\model\AppPostTest.class
+com\conectaduoc\controller\PostControllerTest.class
+com\conectaduoc\controller\PostCategoryControllerTest.class
+com\conectaduoc\model\PostScoreTest.class
